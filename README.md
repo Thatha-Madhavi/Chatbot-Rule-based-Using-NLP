@@ -24,6 +24,6 @@ Perfect for beginners learning NLP and chatbot development.
 
 - 🤝 Contributing
 
-📸 Screenshots
+- 📸 Screenshots
 
-📜 License
+- 📜 License
