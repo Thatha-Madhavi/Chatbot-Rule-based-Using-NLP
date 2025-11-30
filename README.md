@@ -168,26 +168,6 @@ Deploy on:
 
 - PythonAnywhere
 
-## 🔮 Future Enhancements (What You Could Add Next)
-
-Here are ideas to evolve this simple chatbot into a more powerful / flexible system:
-
-➕ More patterns & responses — add coverage for more user intents: questions, small talk, support queries, etc.
-
-🧠 Hybrid / ML-based intent classification — use simple NLP libraries (or ML) to classify user intent before picking response, offering more flexibility.
-
-🌐 Web-based UI / chat interface — build a web-frontend (Flask / FastAPI / Django) so users can chat via browser instead of console.
-
-📚 Knowledge-base or database integration — store FAQ data, user data, or dynamic content so bot can respond with real info instead of static replies.
-
-🧰 Context / session memory — let bot remember previous user messages or data (e.g. user name) to handle multi-turn conversations with some context awareness.
-
-🌍 Multi-language support — allow bot to support multiple languages or language detection + appropriate responses.
-
-☁️ Deployment — host the bot (as console app, web server, or API) so it becomes accessible publicly or for other apps.
-
-💬 Fallback improvements — detect unknown intents and ask clarifying questions rather than generic fallback.
-
 🤝 Contributing
 
 Contributions are welcome!
