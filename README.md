@@ -16,15 +16,11 @@ Perfect for beginners learning NLP and chatbot development.
 
 - ▶️ Usage
 
-- 💬 Example Interaction
-
 - 🧠 How It Works
 
 - 📈 Future Enhancements
 
 - 🤝 Contributing
-
-- 📸 Screenshots
 
 - 📜 License
 
