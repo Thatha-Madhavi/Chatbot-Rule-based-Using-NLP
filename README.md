@@ -56,10 +56,16 @@ This makes the chatbot simple, predictable, and easy to extend.
 ## 📂 Project Structure
 Chatbot-Rule-based-Using-NLP/
 │
+
 ├── Chatbot.py.py            # Main chatbot script
+
 ├── README.md                # Project documentation
+
 ├── LICENSE                  # MIT License
+
 └── requirements.txt         # Dependencies (optional)
+
+
 
 
 
