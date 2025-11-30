@@ -168,11 +168,15 @@ Deploy on:
 
 - PythonAnywhere
 
-🤝 Contributing
+## 🤝 Contributing
 
 Contributions are welcome!
 
-📜 License
+## 👨‍💻 Author
+
+Madhavi Thatha
+
+## 📜 License
 
 This project is licensed under the MIT License.
 
