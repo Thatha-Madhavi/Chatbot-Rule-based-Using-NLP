@@ -172,7 +172,7 @@ Deploy on:
 
 Contributions are welcome!
 
-## 👨‍💻 Author
+## 👩‍💻 Author
 
 Madhavi Thatha
 
