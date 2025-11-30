@@ -83,7 +83,7 @@ python Chatbot.py
 
 No extra libraries required unless you add anything later.
 
-### ▶️ Usage
+## ▶️ Usage
 
 After running the script:
 
